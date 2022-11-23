@@ -6,6 +6,7 @@ line 5
 new line
 and here!
 main add 1
+main add 2
 develop add 1
 develop add 2
 develop add 3
