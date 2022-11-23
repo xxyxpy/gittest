@@ -6,3 +6,4 @@ line 5
 new line
 and here!
 main add 1
+main add 2
